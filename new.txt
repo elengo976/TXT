@@ -1,0 +1,4 @@
+name : Елена
+age : 45
+number of pets": 1,
+  "future desired salary": 100000[A[D[D[[D[D[D[D[D[D[D[D[D[D[B[C[3~[3~[3~[3~[3~[3~[[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[future desired salary : 100000
