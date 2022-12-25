@@ -1,1 +1,8 @@
-
+ID : 1
+Severity : major
+Pre-condition : Authorized user
+Environment : Windows 10 Chrome  108.0.5359.125
+Title : Dropdown list for choosing a license is missing
+Steps : 1. Navigate to currency.com , 2. Select any license 
+Expected Result : The dropdown list shows available licenses
+Actual Result : The dropdown list is missing
